@@ -11,4 +11,21 @@ My CV in
 This is a repository to showcase skills, share projects and track  my progress in Data Analytics related projects.
 
 ## Table of Contents
+* [About]
+* [Portfolio Projects]
+* [Education]
+* [Certificates]
+* [Contact]
 
+## Portfolio Projects
+Ganapathy Engineering College, Warangal: Bachelor of Technology - Computer Science Engineering, 7.0 CGPA, August 2020 - July 2023
+
+V M R Polytechnic College, Warangal: Diploma - Civil Engineering, 71%, 2017 - 2020
+
+## Certificates
+* [Google Data Analytics Professional Certificate](https://coursera.org/share/b672e13b019777870964d05ba16fbecb) (Aug 2023) (Coursera - Google)
+* [Python Libraries for Data Science](https://simpli-web.app.link/e/5BXcSHH8rHb) (2024) (Simplilearn)
+
+  ## Contact
+  * LinkedIn: [@Shivasaganti](https://www.linkedin.com/in/shiva-saganti-102566210/)
+  * Email: [svslaxman4190@gmail.com](mailto:svslaxman4190@gmail.com)
