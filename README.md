@@ -12,7 +12,7 @@ This is a repository to showcase skills, share projects and track  my progress i
 
 ## Table of Contents
 * [About](About)
-* [Portfolio Projects](PortfolioProjects)
+* [Portfolio Projects](https://github.com/laxman4190/Portfolio/blob/main/README.md#portfolio-projects)
 * [Education](Education)
 * [Certificates](Certificates)
 * [Contact](Contact)
