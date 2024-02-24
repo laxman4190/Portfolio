@@ -6,7 +6,7 @@ During my course in Google Data Analytics by coursera, I honed my ability to wor
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 <br>
-My CV in 
+My CV in [PDF](shiva CV.pdf)
 
 This is a repository to showcase skills, share projects and track  my progress in Data Analytics related projects.
 
