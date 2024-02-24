@@ -11,11 +11,11 @@ My CV in
 This is a repository to showcase skills, share projects and track  my progress in Data Analytics related projects.
 
 ## Table of Contents
-* [About]
-* [Portfolio Projects]
-* [Education]
-* [Certificates]
-* [Contact]
+* [About]()
+* [Portfolio Projects]()
+* [Education]()
+* [Certificates]()
+* [Contact]()
 
 ## Portfolio Projects
 Ganapathy Engineering College, Warangal: Bachelor of Technology - Computer Science Engineering, 7.0 CGPA, August 2020 - July 2023
