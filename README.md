@@ -11,11 +11,11 @@ My CV in
 This is a repository to showcase skills, share projects and track  my progress in Data Analytics related projects.
 
 ## Table of Contents
-* [About](About)
+* [About](https://github.com/laxman4190/Portfolio/blob/main/README.md#About)
 * [Portfolio Projects](https://github.com/laxman4190/Portfolio/blob/main/README.md#portfolio-projects)
-* [Education](Education)
-* [Certificates](Certificates)
-* [Contact](Contact)
+* [Education](https://github.com/laxman4190/Portfolio/blob/main/README.md#Education)
+* [Certificates](https://github.com/laxman4190/Portfolio/blob/main/README.md#certificates)
+* [Contact](https://github.com/laxman4190/Portfolio/blob/main/README.md#Contact)
 
 ## Portfolio Projects
 Ganapathy Engineering College, Warangal: Bachelor of Technology - Computer Science Engineering, 7.0 CGPA, August 2020 - July 2023
