@@ -18,6 +18,8 @@ This is a repository to showcase skills, share projects and track  my progress i
 * [Contact](https://github.com/laxman4190/Portfolio/blob/main/README.md#Contact)
 
 ## Portfolio Projects
+
+## Education
 Ganapathy Engineering College, Warangal: Bachelor of Technology - Computer Science Engineering, 7.0 CGPA, August 2020 - July 2023
 
 V M R Polytechnic College, Warangal: Diploma - Civil Engineering, 71%, 2017 - 2020
