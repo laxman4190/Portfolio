@@ -18,7 +18,10 @@ This is a repository to showcase skills, share projects and track  my progress i
 * [Contact](https://github.com/laxman4190/Portfolio/blob/main/README.md#Contact)
 
 ## Portfolio Projects
-
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+### End-to-End Data Analysis on Hotel Bookings Dataset
+####Code:
+####Goal: To
 ## Education
 Ganapathy Engineering College, Warangal: Bachelor of Technology - Computer Science Engineering, 7.0 CGPA, August 2020 - July 2023
 
