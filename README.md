@@ -21,16 +21,15 @@ This is a repository to showcase skills, share projects and track  my progress i
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 ### End-to-End Data Analysis on Hotel Bookings Dataset
 #### Code: [ Hotel Bookings (Hospatality Domain)](https://www.kaggle.com/code/svslaxmansaganti/data-analysis-hotel-bookings/edit)
-#### Goal:
-To determine the factors contributing to high cancellation rate. 
+**Goal:** To determine the factors contributing to high cancellation rate. 
 #### Description:
 
-#### Skills:
+__Skills:__ 
 
 #### Tools and Technologies Used:
 * Python (Numpy, Pandas, Matplotlib)
 * Kaggle
-#### Results:
+__Results:__ 
 
 ## Education
 Ganapathy Engineering College, Warangal: Bachelor of Technology - Computer Science Engineering, 7.0 CGPA, August 2020 - July 2023
