@@ -29,7 +29,23 @@ __Skills:__
 #### Tools and Technologies Used:
 * Python (Numpy, Pandas, Matplotlib)
 * Kaggle
-__Results:__ 
+__Results:__
+
+#### Revenue insights Dashboard
+**Goal:** Helping AtliQ Grands regain market share. Providing insights to the revenue team in the Hospitality doamin.
+
+**Description:** 
+1. *Data Import, Modeling & Cleaning*. Imported provided CSV files into Power BI.
+  * Performed *Data Cleaning & Transformation* by handling correcting inconsistencies, and formating values appropriately by using *Power Query editor*.
+  * Created relations between dimensional tables and fact tables.
+2. *Metric Calculation/Creation*: Based on the metric list provided, calculated key performance indicators (KPIs) relevent to revenue management in hospatality domain. Like,
+    - Occupancy %, ADR (Average Daily Rate), Realisation %, DURN (Daily Utilized Room Nights), DSRN (Daily Sellable Room Nights), RevPar (Reservation Per Available Room).
+3. Analyzed historical hotel booking data to identify trends and develop insights for revenue improvement.
+4. Utilized Power BI to create a data visualization dashboard for AtliQ Grands' revenue management team, enabling them to make data-driven decisions regarding pricing strategies and marketing campaigns.
+
+#### Tools and Technologies Used:
+* Power BI
+#### [Dashboard as PNG](hospatality_dashboard.png)
 
 ## Education
 Ganapathy Engineering College, Warangal: Bachelor of Technology - Computer Science Engineering, 7.0 CGPA, August 2020 - July 2023
