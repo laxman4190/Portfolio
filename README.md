@@ -36,8 +36,8 @@ __Results:__
 
 **Description:** 
 1. *Data Import, Modeling & Cleaning*. Imported provided CSV files into Power BI.
-  * Performed *Data Cleaning & Transformation* by handling correcting inconsistencies, and formating values appropriately by using *Power Query editor*.
-  * Created relations between dimensional tables and fact tables.
+   -  Performed *Data Cleaning & Transformation* by handling correcting inconsistencies, and formating values appropriately by using *Power Query editor*.
+   -  Created relations between dimensional tables and fact tables.
 2. *Metric Calculation/Creation*: Based on the metric list provided, calculated key performance indicators (KPIs) relevent to revenue management in hospatality domain. Like,
     - Occupancy %, ADR (Average Daily Rate), Realisation %, DURN (Daily Utilized Room Nights), DSRN (Daily Sellable Room Nights), RevPar (Reservation Per Available Room).
 3. Analyzed historical hotel booking data to identify trends and develop insights for revenue improvement.
@@ -45,7 +45,7 @@ __Results:__
 
 #### Tools and Technologies Used:
 * Power BI
-#### [Dashboard as PNG](hospatality_dashboard.png)
+#### [Dashboard as PNG](https://github.com/laxman4190/PortfolioProjects/blob/main/hospatality_dashboard.png)
 
 ## Education
 Ganapathy Engineering College, Warangal: Bachelor of Technology - Computer Science Engineering, 7.0 CGPA, August 2020 - July 2023
