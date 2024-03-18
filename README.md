@@ -34,7 +34,7 @@ __Skills:__ Data Analysis, Data Cleaning, Data Visualization
 * Kaggle
 __Results:__
 
-#### Revenue insights Dashboard
+### Revenue insights Dashboard
 **Goal:** Helping AtliQ Grands regain market share. Providing insights to the revenue team in the Hospitality doamin.
 
 **Description:** 
