@@ -13,18 +13,21 @@ This is a repository to showcase skills, share projects and track  my progress i
 ## Table of Contents
 * [About](https://github.com/laxman4190/Portfolio/blob/main/README.md#About)
 * [Portfolio Projects](https://github.com/laxman4190/Portfolio/blob/main/README.md#portfolio-projects)
+   - [End-to-End Data Analysis on Hotel Bookings Data](https://github.com/laxman4190/Portfolio?tab=readme-ov-file#end-to-end-data-analysis-on-hotel-bookings-dataset)
+   - Power BI
+      * [Revenue Insight Dashboatd](https://github.com/laxman4190/PortfolioProjects/blob/main/hospatality_dashboard.png)
 * [Education](https://github.com/laxman4190/Portfolio/blob/main/README.md#Education)
 * [Certificates](https://github.com/laxman4190/Portfolio/blob/main/README.md#certificates)
 * [Contact](https://github.com/laxman4190/Portfolio/blob/main/README.md#Contact)
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
-### End-to-End Data Analysis on Hotel Bookings Dataset
+### End-to-End Data Analysis on Hotel Bookings Data
 #### Code: [ Hotel Bookings (Hospatality Domain)](https://www.kaggle.com/code/svslaxmansaganti/data-analysis-hotel-bookings/edit)
 **Goal:** To determine the factors contributing to high cancellation rate. 
 #### Description:
 
-__Skills:__ 
+__Skills:__ Data Analysis, Data Cleaning, Data Visualization
 
 #### Tools and Technologies Used:
 * Python (Numpy, Pandas, Matplotlib)
@@ -43,8 +46,12 @@ __Results:__
 3. Analyzed historical hotel booking data to identify trends and develop insights for revenue improvement.
 4. Utilized Power BI to create a data visualization dashboard for AtliQ Grands' revenue management team, enabling them to make data-driven decisions regarding pricing strategies and marketing campaigns.
 
+**Skills:** Dashboard Development, Data Cleaning, Data Transformation, Visualization, DAX, Measures
+
 #### Tools and Technologies Used:
 * Power BI
+* MS Excel
+* 
 #### [Dashboard as PNG](https://github.com/laxman4190/PortfolioProjects/blob/main/hospatality_dashboard.png)
 
 ## Education
