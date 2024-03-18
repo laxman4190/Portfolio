@@ -51,7 +51,7 @@ __Results:__
 #### Tools and Technologies Used:
 * Power BI
 * MS Excel
-* 
+
 #### [Dashboard as PNG](https://github.com/laxman4190/PortfolioProjects/blob/main/hospatality_dashboard.png)
 
 ## Education
