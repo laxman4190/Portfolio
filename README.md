@@ -26,13 +26,32 @@ In this section I will list data analytics projects briefly describing the techn
 #### Code: [ Hotel Bookings (Hospatality Domain)](https://www.kaggle.com/code/svslaxmansaganti/data-analysis-hotel-bookings/edit)
 **Goal:** To determine the factors contributing to high cancellation rate. 
 #### Description:
+**Data Collection and Preprocessing:**
+* Obtained a comprehensive hotel booking dataset from [source].
+* Conducted data cleaning and preprocessing to handle missing values and ensure data integrity.
+
+**Exploratory Data Analysis (EDA):**
+* Utilized Pandas for data manipulation and summary statistics.
+* Visualized booking trends, customer demographics, and booking channels using Matplotlib and Seaborn.
+
+**Statistical Analysis:**
+* Employed statistical techniques to identify correlations between booking features and customer behavior.
+* Conducted hypothesis testing to validate assumptions and derive meaningful insights.
+
+**Insights and Recommendations:**
+* Identified peak booking periods and popular room types to optimize pricing strategies.
+* Suggested personalized marketing approaches based on customer segmentation.
 
 __Skills:__ Data Analysis, Data Cleaning, Data Visualization
 
-#### Tools and Technologies Used:
+__Tools and Technologies Used:__
 * Python (Numpy, Pandas, Matplotlib)
 * Kaggle
 __Results:__
+* Observed high cancellations when ADR and Prices is higher.
+* Concluded that, cancellation rates rise as price does.
+
+**Report:** [Report](https://drive.google.com/file/d/1itWGUw349DmfvQ0dhM0vsQWLiH4tA9H1/view?usp=sharing)
 
 ### Revenue insights Dashboard
 **Goal:** Helping AtliQ Grands regain market share. Providing insights to the revenue team in the Hospitality doamin.
